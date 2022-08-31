@@ -10,9 +10,6 @@
 
 <br />
 
-### My Podcast
-
-[<img src="" alt="The Student Spotlight Podcast" width="350" />](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW)
 
 
 
